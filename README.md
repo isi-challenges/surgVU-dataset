@@ -1,1 +1,1 @@
-# surgVU-dataset
+# Surgical Visual Understanding (SurgVU) Dataset
