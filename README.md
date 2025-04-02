@@ -3,7 +3,7 @@
 
 ## Overview
 
-Owing to recent advances in machine learning and the ability to harvest large amounts of data during robotic-assisted surgeries, surgical data science is ripe for foundational work. This repository serves as a reference to a large dataset of surgical videos and their accompanying labels, curated for research purposes in the field of surgical data science.
+With recent improvements in machine learning and the ability to collect large amounts of data during surgeries with robotic assistance, the field of surgical data science is ready for important foundational research. This collection serves as a resource for a large dataset of surgical videos and their corresponding labels, organized for research purposes in the area of surgical data science.
 
 ## Description
 
