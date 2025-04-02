@@ -34,9 +34,10 @@ The dataset contains 280 video clips from 155 sessions, totaling 840 hours of fo
 
 The dataset is divided into several components, each accessible via the following URLs:
 
-- **Surgical Videos**: [Access Videos]([https://video-url](https://storage.googleapis.com/isi-surgvu/surgvu24_videos_only.zip))
-- **Labels**: [Access Labels]([https://labels-url](https://storage.googleapis.com/isi-surgvu/surgvu24_labels_updated_v2.zip))
-- **Validation Set for Tool Detection**: [Access Validation Set]([https://validation-url](https://storage.googleapis.com/isi-surgvu/cat1_test_set_public.zip))
+- **Surgical Videos**: [Access Videos](https://storage.googleapis.com/isi-surgvu/surgvu24_videos_only.zip)
+- **Labels**: [Access Labels](https://storage.googleapis.com/isi-surgvu/surgvu24_labels_updated_v2.zip)
+- **Validation Set for Tool Detection**: [Access Validation Set](https://storage.googleapis.com/isi-surgvu/cat1_test_set_public.zip)
+
 
 ## Usage
 
